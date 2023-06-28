@@ -1,3 +1,6 @@
+<img width="534" alt="스크린샷 2023-06-28 오후 10 59 59" src="https://github.com/Robotics-official/.github/assets/137298920/458f0bb8-c1a7-4371-92c3-98d7ad042a0a">
+
+
 ## 👋 안녕하세요
 
 숭실대학교 전자정보공학부 소모임 **Robotics** 입니다
