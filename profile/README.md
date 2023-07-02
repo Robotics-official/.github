@@ -42,7 +42,7 @@
             <a href="https://github.com/ukkKyo">ukkKyo</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/parksiwoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/20399222?v=4"/></a>
+            <a href="https://github.com/parksiwoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/59051526?v=4"/></a>
             <br />
             <a href="https://github.com/parksiwoon">parksiwoon</a>
         </td>
