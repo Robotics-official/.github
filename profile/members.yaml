@@ -1,0 +1,24 @@
+member:
+  - name: tony9402 # 실명 또는 깃헙닉네임
+    baekjoon: tony9402 # 백준 아이디 (없으면 빈칸)
+    github: tony9402 # 깃헙아이디
+
+  - name: SWtheWhite
+    baekjoon: swthewhite
+    github: SWtheWhite 
+
+  - name: se0nShine
+    baekjoon: jselectronit
+    github: se0nShine
+
+  - name: ukkKyo
+    baekjoon: 
+    github: ukkKyo
+
+  - name: parksiwoon
+    baekjoon: 
+    github: parksiwoon
+
+  - name: nohy6630
+    baekjoon: youngjin_noh
+    github: nohy6630
