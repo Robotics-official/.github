@@ -18,6 +18,73 @@
 ♧가입시 주어지는 혜택♧
 - 바로 뱃지 부여
 
+## Members
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/tony9402"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/30228292?v=4"/></a>
+            <br />
+            <a href="https://github.com/tony9402">tony9402</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/SWtheWhite"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/44691277?v=4"/></a>
+            <br />
+            <a href="https://github.com/SWtheWhite">SWtheWhite</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/se0nShie"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/58286830?v=4"/></a>
+            <br />
+            <a href="https://github.com/se0nShie">se0nShie</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/ukkKyo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/68654501?v=4"/></a>
+            <br />
+            <a href="https://github.com/ukkKyo">ukkKyo</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/parksiwoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/20399222?v=4"/></a>
+            <br />
+            <a href="https://github.com/parksiwoon">parksiwoon</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tony9402" />
+            <br />
+            <a href="https://www.acmicpc.net/user/tony9402">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/tony9402">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=swthewhite" />
+            <br />
+            <a href="https://www.acmicpc.net/user/swthewhite">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/swthewhite">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jselectronit" />
+            <br />
+            <a href="https://www.acmicpc.net/user/jselectronit">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/jselectronit">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" />
+            <br />
+            <a href="https://www.acmicpc.net/user/">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" />
+            <br />
+            <a href="https://www.acmicpc.net/user/">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/">solved.ac</a>
+        </td>
+    </tr>
+</table>
 
 ------------
 
