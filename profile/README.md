@@ -2,7 +2,7 @@
 
 숭실대학교 전자정보공학부 소모임 **Robotics** 입니다
 
-* [로보틱스 인스타 그램 :](https://www.instagram.com/robotics_ssu)
+* [**로보틱스 인스타그램**](https://www.instagram.com/robotics_ssu)
 
 
 ## 👀 살펴보기
