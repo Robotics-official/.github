@@ -84,6 +84,22 @@
             <a href="https://solved.ac/profile/">solved.ac</a>
         </td>
     </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/nohy6630"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/129354455?v=4"/></a>
+            <br />
+            <a href="https://github.com/nohy6630">nohy6630</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youngjin_noh" />
+            <br />
+            <a href="https://www.acmicpc.net/user/youngjin_noh">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/youngjin_noh">solved.ac</a>
+        </td>
+    </tr>
 </table>
 
 ------------
