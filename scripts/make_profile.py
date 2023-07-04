@@ -23,6 +23,8 @@ def make_member_table(members: List[Dict[str, str]]) -> List[str]:
     num_of_members: int = len(members)
 
     lines: List[str] = []
+
+    lines.append("## Members")
     lines.append("<table>")
     for i in range(0, num_of_members, 5):
         # Image
